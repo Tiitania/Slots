@@ -1,0 +1,10 @@
+C:\Users\Octavio\source\repos\Slots\Slots\bin\Debug\Slots.exe.config
+C:\Users\Octavio\source\repos\Slots\Slots\bin\Debug\Slots.exe
+C:\Users\Octavio\source\repos\Slots\Slots\bin\Debug\Slots.pdb
+C:\Users\Octavio\source\repos\Slots\Slots\obj\Debug\Slots.csproj.AssemblyReference.cache
+C:\Users\Octavio\source\repos\Slots\Slots\obj\Debug\Slots.Form1.resources
+C:\Users\Octavio\source\repos\Slots\Slots\obj\Debug\Slots.Properties.Resources.resources
+C:\Users\Octavio\source\repos\Slots\Slots\obj\Debug\Slots.csproj.GenerateResource.cache
+C:\Users\Octavio\source\repos\Slots\Slots\obj\Debug\Slots.csproj.CoreCompileInputs.cache
+C:\Users\Octavio\source\repos\Slots\Slots\obj\Debug\Slots.exe
+C:\Users\Octavio\source\repos\Slots\Slots\obj\Debug\Slots.pdb
